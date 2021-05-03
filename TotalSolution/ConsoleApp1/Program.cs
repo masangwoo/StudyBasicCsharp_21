@@ -7,7 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");//wntjr
-            Console.Write("hello");
+            Console.Write("hello");//두번째주석
         }
     }
 }
